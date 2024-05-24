@@ -1,6 +1,6 @@
-# usePopcorn (Movie App)
+# Popcorn (Movie App)
 
-This is a practice project.
+A movie app designed to practice a litte bit of a real world of React development.
 
 ## What I've Learned
 
